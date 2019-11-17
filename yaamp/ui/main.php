@@ -12,11 +12,18 @@ echo <<<END
 <head>
 
 <meta charset="utf-8">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="author" content="Sumcoin">
+<meta http-equiv="refresh" content="60">
+<meta property="og:title" content="Sumcoin Mining Pool">
+<meta property="og:image" content="">
+<meta property="og:description" content="Sumcoinmining.org is a multi cryptocurrency capable mining pool with low fees.">
 
-<meta name="description" content="Yii mining pools for alternative crypto currencies">
-<meta name="keywords" content="anonymous,mining,pool,maxcoin,bitcoin,altcoin,auto,switch,exchange,profit,decred,scrypt,x11,x13,x14,x15,lbry,lyra2re,neoscrypt,sha256,quark,skein2">
+
+
+
+<meta name="description" content="Mining Pools for crypto currencies">
+<meta name="keywords" content="Sumcoin,sum,index,scrypt,coin,mining,pool,bitcoin,litecoin,LTC,BTC,altcoin,auto,switch,exchange,profit,decred,scrypt,x11,x13,x14,x15,lbry,lyra2re,neoscrypt,sha256,quark,skein2">
 
 END;
 
